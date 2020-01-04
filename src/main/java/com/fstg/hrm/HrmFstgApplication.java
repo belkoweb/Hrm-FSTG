@@ -1,5 +1,5 @@
 package com.fstg.hrm;
-
+//
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
